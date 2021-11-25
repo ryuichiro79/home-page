@@ -2,8 +2,6 @@
 <html lang="ja">
  <body>
  <!----- header----->
- <header>ヘッダー</header>
- <nav>ナビ</nav>
  <!----- /header ----->
  
  <!----- main ----->
