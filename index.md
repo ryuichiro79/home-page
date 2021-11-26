@@ -9,7 +9,6 @@
 <body>
     <h1>尾崎隆一郎</h1>
 <div id="content">
-    <h2>概要</h2>
     <h2>所属</h2>
     <ul>
         <li>
